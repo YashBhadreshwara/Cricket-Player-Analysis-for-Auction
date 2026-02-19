@@ -57,7 +57,7 @@ The goal is to assist teams in identifying **high-value players** for auction st
 
 ### 🟧 Player Performance Tables
 <p align="center">
-  <img src="Dashboard 2.png" width="800"/>
+  <img src="Dashboard 2 .png" width="800"/>
 </p>
 
 ---
